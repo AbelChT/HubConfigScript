@@ -38,3 +38,6 @@ $ python3 configurador.py nombre_config_file
     }
 ]
 ```
+
+## Licencia
+Todo el código que se encuentra en este repositorio, a menos que se indique lo contrario, posee la licencia GNU GPLv3. Para mas información sobre esta, consultar el fichero `LICENSE` de este repositorio.
